@@ -1,0 +1,39 @@
+.container {
+  display: block;
+  margin: 0 auto;
+  margin-top: 2rem;
+}
+
+.card {
+  display: inline-block;
+  background-image: url("https://img.freepik.com/vector-gratis/diseno-fondo-abstracto-tecnologia-digital-big-data_1017-22920.jpg?size=626&ext=jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: rgba (0, 0, 0, 0.7);
+  width: 47rem;
+  padding: 0.6rem;
+}
+
+.txtbox {
+  min-width: 300px;
+  background-color: #c2e3ee;
+  color: #111111;
+  font-size: 1.8rem;
+  font-weight: bold;
+  opacity: 0.5;
+  padding: 0.6rem;
+  border-radius: 0.6rem;
+}
+
+#contador {
+  margin-top: 2rem;
+}
+
+.btn {
+  width: 7rem;
+  margin: 0.8rem;
+}
+
+.copy {
+  background-image: url('background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Twemoji_1f517.svg/768px-Twemoji_1f517.svg.png');
+}
